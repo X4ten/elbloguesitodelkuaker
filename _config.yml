@@ -1,4 +1,4 @@
-title: Leaf Blog
+title: EL bloguesito del kuaker
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -6,9 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
-
+  github: X4ten
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

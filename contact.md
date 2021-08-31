@@ -1,10 +1,9 @@
 ---
-title: Contact
+title: CONTACTO
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+Para cualquier duda que tengas contactame en [Instagram](https://instagram.com/_xuten_).
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+Mi github para que podais utlizar las herramientas que cree [Github](https://github.com/X4ten)
 
-(Change this by editing `contact.md` file)

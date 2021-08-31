@@ -1,10 +1,10 @@
 ---
-title: About
+title: INFO SOBRE MI
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Buenas me presento, me llaman xuten, soy el informatico de pueblo de confianza ;) 
+Hago este blog para que usted usuario que lee esto aprenda de informatica y le de caña
+Así que entra y abre tus conocimientos y saludos
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+Xuten
