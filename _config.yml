@@ -1,4 +1,4 @@
-title: EL bloguesito del kuaker
+title: El bloguesito del kuaker
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -7,7 +7,7 @@ permalink: :slug
 
 social:
   github: X4ten
-  
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
