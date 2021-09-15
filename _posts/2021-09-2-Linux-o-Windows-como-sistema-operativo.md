@@ -25,7 +25,7 @@ para el tema del hacking no es tan buena opción porque casi todas las herramien
 
 de codigo abierto (esto ya lo hablaremos en el apartado de linux).
 
-Si quieres instalar windows en tu pc aquí te dejo la pagina oficial: [Windows](https://software-download.microsoft.com/db/Win10_21H1_Spanish_x64.iso?t=dc650a88-1963-45ce-af22-a8cf38d00788&e=1630688674&h=070fc465401b046f4452268c485eea7e) 
+Si quieres instalar windows en tu pc aquí te dejo la pagina oficial: [Windows](https://www.microsoft.com/es-es/software-download/windows10) 
 
 nada más que le deis se comenzará a instalar.
 
