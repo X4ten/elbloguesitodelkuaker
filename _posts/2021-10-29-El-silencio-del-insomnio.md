@@ -1,0 +1,11 @@
+---
+layout: post
+Autor : X4ten
+---
+
+Al fin y al cabo en la informatica hay de todo tipo de fallos y de "bugs" pos en la vida real también los hay y mucha gente los tienen como en 
+los pc. Muchas veces hacen que se bloqueen los procesos y otra muchas hacen que el pc no funcione como antes o que día a día vaya empeorando.
+Al final va ser verdad eso de que las maquinas y los humanos tenemos muchisimo en común. Uno de los errores que más frecuentamos son la
+ansiedad y la depresión que son los dos [exploits](https://es.wikipedia.org/wiki/Exploit) más comunes que tenemos los humanos y los que más entorpecen. Te sientes vacio, desolado, mal contigo mismo por no saber superar recuerdos, delimitan toda acción que hagas por temor a la  repercursión aunque no te vaya a pasar nada, puedes estar sin dormir días derrochando cada una de vuestras lagrimas por que realmente no sabéis que os pasa. Lo mejor de esté exploit es que pasa desapercibido por cualquier scan (ojo humano) por el simple hecho que lo intentamos ocultar al maximo para no vernos personas frágiles y debiles. También es verdad que un lado malo de esto es que al guardarlo todo lo acumulas que es peor, porque cuando explotas es una de las peores sensaciones del mundo (vamos yo no se la deseo ni al peor de mi enemigos). Pero chicos y chicas que esteís leyendo esto, también os quiero decir que si hay solución para este exploit, y sois vosotros mismos y vuestro circulo de amistad y familiar. ya sea con una excusa de ir a trabajar o una excusa de echarte un cigarro, esas charlas con ell@s, esas personas que te alegran la vida apacigüan lo que es la ansiedad, también una botella y sobre todo si es de fuego valyrio pero es más potente si es acompaña de esas personas, a veces no sabes como agradecerles lo tanto que están contigo tanto para lo bueno y lo malo pero hazme caso, demuestrales que los quieres porque el día de mañana si te faltan vas a tener un vacio aún mayor(también hay que saber estar solo pero se entiende) Así que nada, este blog ya se que es de infórmatica pero en la infórmatica no solo es ordenadores, también es psicología y bienestar propio, porque si la maquina está obstruida o falla va mal y no hace sus tareas bien, pues nosotros somos iguales.
+
+un saludo <3!
